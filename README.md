@@ -1,4 +1,4 @@
 - 👋 Olá, Meu nome é Vinicius Evangelista
 - 👀 Sou interessado em desenvolvimento, física e tecnologia em geral
-- 🌱 Atualmente, estou completando minha formação aprendendo a lidar com o back-end na web usando MongoDB 
+- 🌱 Atualmente, estou usando ReactJs no front-end, Node no back-end e trabalhando com bancos de dados SQL no Postgres
 - 📫 A melhor forma de me encontrar é mandar um email para viniciusevangelista088@gmail.com
