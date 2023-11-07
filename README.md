@@ -1,4 +1,5 @@
-- 👋 Olá, Meu nome é Vinicius Evangelista
-- 👀 Sou interessado em desenvolvimento, física e tecnologia em geral
-- 🌱 Atualmente, estou usando ReactJs no front-end, Node no back-end e trabalhando com bancos de dados SQL no Postgres
-- 📫 A melhor forma de me encontrar é mandar um email para viniciusevangelista088@gmail.com
+#  Olá 👋 Eu sou o Vinni
+## Desenvolvedor Full-Stack Brasileiro
+
+## Minhas redes:
+<img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" />
