@@ -13,6 +13,7 @@ Fale comigo:
 
 <p align="center"> 
   <img  src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vinni088&theme=dark'>
+  <img  src=' https://github-readme-stats.vercel.app/api/top-langs/?username=Vinni088'>
 <p/>
 
 Minha Stack e ferramentas:
@@ -32,9 +33,8 @@ Minha Stack e ferramentas:
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
   
   
 <p/>
