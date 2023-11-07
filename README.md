@@ -1,7 +1,7 @@
 <h1> Olá 👋 Eu sou o Vinni <h1/>
 
 <p align='center'>
-  Desenvolvedor Full-Stack Brasileiro
+  Desenvolvedor Full-Stack
 <p>
 Fale comigo: 
 <p align='center'>
@@ -10,7 +10,9 @@ Fale comigo:
   <a href="mailto:viniciusevangelista088@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
   <a href="https://wa.me/5561999167530"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> 
 </p>
-Tecnologias e Ferramentas:
+
+<img  src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={Vinni088}&theme={dark}'>
+Minha Stack e ferramentas:
 <p align="center">
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
