@@ -3,7 +3,6 @@
 <p align='center'>
   Desenvolvedor Full-Stack
 <p>
-Fale comigo: 
 <p align='center'>
   <a href="https://github.com/Vinni088"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/vinicius-evangelista088/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
