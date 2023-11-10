@@ -1,8 +1,11 @@
-<h1> Olá 👋 Eu sou o Vinni <h1/>
+<p> Olá, eu sou o Vinni e sou um desenvolvedor web full-stack <p>
 
-<p align='center'>
-  Desenvolvedor Full-Stack
+<p> 
+  Atualmente trabalho como desenvolvedor back-end na Agrisafe, utilizando a programação para produzir soluções para crédito agrícola. Comecei minha jornada na programação 
+  durante minha graduação, bacharel em física, para resolver algums problemas complicados (tipo um modelo para prever a propagação da Covid19 durante a pandemia). 
+  Desde o começo de 2023 aprofundei meus conhecimentos em programação para o mundo do desenvolvimento Web no Front-End e no Back-End 
 <p>
+
 <p align='center'>
   <a href="https://github.com/Vinni088"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/vinicius-evangelista088/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
