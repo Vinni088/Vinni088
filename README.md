@@ -1,4 +1,4 @@
-<h1> Olá, eu sou o Vinni e sou um desenvolvedor web full-stack <h1>
+<h1 color='white' > Olá, eu sou o Vinni e sou um desenvolvedor web full-stack <h1>
 
 <h2> Um pouco sobre mim <h2>
 <p> 
