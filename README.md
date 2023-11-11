@@ -1,4 +1,4 @@
-## Olá, eu sou o Vinni e sou um desenvolvedor web full-stack
+## Olá, eu sou o Vinni e sou um desenvolvedor web full-stack 👨‍🔬💻
 
 ### Um pouco sobre mim 
 
@@ -39,8 +39,7 @@
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
 <p/>
 
-### Um pouco dos gráficos do github:
-<p align="center"> 
-  <img  src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vinni088&theme=dark'>
-  <img  src=' https://github-readme-stats.vercel.app/api/top-langs/?username=Vinni088'>
+### Um pouco sobre meu github:
+<p align="center">
+  <img  src='https://github-readme-stats.vercel.app/api/top-langs/?username=Vinni088'>
 <p/>
